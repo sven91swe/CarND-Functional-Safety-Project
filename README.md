@@ -1,3 +1,7 @@
+The documents that have been created in this project can be found in the folder 'answers'. Pdf and docx / xlsx versions are available.
+
+#Project instructions given by Udacity below:
+
 # Functional Safety of a Lane Assistance System
 
 
